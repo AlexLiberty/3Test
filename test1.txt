@@ -1,0 +1,10 @@
+Питання 1. Яка мова програмування PHP знайшла найбільше застосування в?|Автоматизованому проектуванні,Розробці web-додатків,Створенні та управлінні базами даних|Розробці web-додатків;
+Питання 2. Якими роздільниками оточені скрипти PHP?|&lt? php … ?&gt,&lt php &gt … &lt/php&gt,&lt/&gt php &lt/&gt|<&lt? php … ?&gt;
+Питання 3. З використанням синтаксису мови PHP, напишіть “Hello, World!”:|printf “Hello World!”,Hello World!,echo “Hello World!”|echo “Hello World!”;
+Питання 4. З якого символа починаються всі змінні в PHP?|<>,$,!|$;
+Питання 5. До якого мови програмування синтаксично найближчий PHP?|C та Perl,.Net,VBScript|C та Perl;
+Питання 6. Перерахуйте основні типи даних у PHP?|Boolean float logic text subject NULL,String boolean text massive logic NULL,Boolean integer float string array object resource NULL|Boolean integer float string array object resource NULL;
+Питання 7. У PHP використовується … типізація даних.|Динамічна,Синтаксична,Комутаційна|Динамічна;
+Питання 8. Як правильно включити файл “time.inc”?|include "time.inc",php include ‘time.inc’,&lt!-- include file="time.inc" --&gt|include "time.inc";
+Питання 9. Вкажіть правильний спосіб створення функції в PHP:|create newFunction(),new_function newFunction(),function newFunction()|function newFunction();
+Питання 10. Вкажіть неправильно задане ім'я:|$my-Var,$myVar,$my_Var|$my-Var;

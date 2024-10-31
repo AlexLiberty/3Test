@@ -1,0 +1,10 @@
+Питання 1. Які види коментарів в PHP?|//,!!,/**/|//,/**/;
+Питання 2. Варіанти виводу рядка в PHP|echo "...",echo &lt&lt&ltp...p,echo '...'|echo "...",echo &lt&lt&ltp...p,echo '...';
+Питання 3. Які з перерахованих тегів придатні для відкриття та закриття PHP блоку?|&lt?php...?&gt,=php...?=,&lt?= ?&gt|&lt?php...?&gt;
+Питання 4. Як можна підключити файл?|Connect(),require(),include()|require(),include();
+Питання 5. Як відобразити текст з допомогою PHP-скрипта?|echo "Method 1",print "Method 2",text: Hello|echo "Method 1",print "Method 2";
+Питання 6. Які глобальні змінні існують у мові PHP?|$_POST["var"],$_PAR["var"],$_VAR["VAR"]|$_POST["var"];
+Питання 7. Як можна приводити типи в PHP?|int integer, float double real, str|int integer, float double real;
+Питання 8. Скільки в PHP типів даних?|8,10,6|8;
+Питання 9. Які цикли є в PHP?|for,foreach,while|for,foreach,while;
+Питання 10. Які модифікатори доступу існують в PHP?|public,internal,private|public,private;
